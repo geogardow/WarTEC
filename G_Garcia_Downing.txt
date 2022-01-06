@@ -1,0 +1,4 @@
+Geovanny García Downing 2020092224
+Python Version 3.9.2
+
+Función de autodocumentación: "autodocumentacion()" se encuentra al final del archivo proyecto.py, para su utilización sólo requiere de llamar la función "autodocumentacion()" sin print(), si esta se escribe al final, debe abrir el juego y cerrarlo, luego de cerrarlo mostrará en el resgistro la autodocumentación de las 5 funciones principales.
